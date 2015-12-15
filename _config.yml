@@ -1,0 +1,28 @@
+name: Reiki
+favicon: null
+layout_spectrum: 0.5174796606879681
+typography_spectrum: 0.016847211867570877
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9658308513462543
+  lightness: 0.4392635577823967
+  saturation: 0.7715433044359088
+  rhythmicContrast: 0.292931902455166
+purpose: []
